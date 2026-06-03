@@ -1,0 +1,1 @@
+ Bom, para começar eu penso em fazer um botão de de excluir usuário e editar usuário, para fazer isso eu penso em ultilizar os mesmo campo de formulário do cadastro de usuários, a única coisa que penso em mudar é o botão, e alterando assim a função dos botões.

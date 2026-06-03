@@ -52,6 +52,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         ?>
         <br>
         <button type="submit">Cadastrar</button>
+        <button type="submit">Excluir</button>
+        <button type="submit">Editar</button>
     </form>
     <hr>
     <?php
